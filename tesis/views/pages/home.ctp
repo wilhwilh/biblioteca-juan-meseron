@@ -95,7 +95,7 @@ echo $this->Html->script('fullcalendar/fullcalendar');
 		<?php echo $this->Html->image('ts/vercol_m_impre.jpg'); ?>
 		</a>
 		<br /><br />
-		<a href="<?php echo $this->base . '/'; ?>">
+		<a href="<?php echo $this->base . '/academic_papers'; ?>">
 		<?php echo $this->Html->image('ts/tit_tesis.jpg'); ?>
 		<?php echo $this->Html->image('ts/ima_tesis.jpg'); ?>
 		<?php echo $this->Html->image('ts/vercol_tesis.jpg'); ?>
