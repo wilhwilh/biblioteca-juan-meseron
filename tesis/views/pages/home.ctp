@@ -53,7 +53,7 @@ echo $this->Html->script('fullcalendar/fullcalendar');
 <div>
 	<div style="width: 20%; float: left;">
 		<p class="texto">
-			La <strong>Biblioteca Virtual Musicol&oacute;gica Juan Meser&oacute;n</strong> pertenece al consorcio MultiMatch, 
+			<h1>LA WEA!!!</h1>La <strong>Biblioteca Virtual Musicol&oacute;gica Juan Meser&oacute;n</strong> pertenece al consorcio MultiMatch, 
 			un proyecto financiado por la Comisi&oacute;n Europea en el per&iacute;odo 2006-2008, que pretende constituir un 
 			motor de b&uacute;squeda multiling&uuml;e y multimedia para facilitar el acceso a los contenidos digitales relacionados 
 			con el patrimonio cultural mundial. Pretende constituir un motor de b&uacute;squeda multiling&uuml;e y multimedia para 
